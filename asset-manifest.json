@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reactsixteen/static/css/main.3245c577.chunk.css",
-    "main.js": "/reactsixteen/static/js/main.48de2b68.chunk.js",
-    "main.js.map": "/reactsixteen/static/js/main.48de2b68.chunk.js.map",
+    "main.css": "/reactsixteen/static/css/main.2eba35c5.chunk.css",
+    "main.js": "/reactsixteen/static/js/main.e761bba2.chunk.js",
+    "main.js.map": "/reactsixteen/static/js/main.e761bba2.chunk.js.map",
     "runtime-main.js": "/reactsixteen/static/js/runtime-main.571ddcb2.js",
     "runtime-main.js.map": "/reactsixteen/static/js/runtime-main.571ddcb2.js.map",
     "static/css/2.de424728.chunk.css": "/reactsixteen/static/css/2.de424728.chunk.css",
-    "static/js/2.a4296f3c.chunk.js": "/reactsixteen/static/js/2.a4296f3c.chunk.js",
-    "static/js/2.a4296f3c.chunk.js.map": "/reactsixteen/static/js/2.a4296f3c.chunk.js.map",
+    "static/js/2.9011f03b.chunk.js": "/reactsixteen/static/js/2.9011f03b.chunk.js",
+    "static/js/2.9011f03b.chunk.js.map": "/reactsixteen/static/js/2.9011f03b.chunk.js.map",
     "index.html": "/reactsixteen/index.html",
-    "precache-manifest.d03d8b5945cfee8f93fc6bb0d793e73f.js": "/reactsixteen/precache-manifest.d03d8b5945cfee8f93fc6bb0d793e73f.js",
+    "precache-manifest.7d081a0e27c76722b6b182b84af39f3a.js": "/reactsixteen/precache-manifest.7d081a0e27c76722b6b182b84af39f3a.js",
     "service-worker.js": "/reactsixteen/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/reactsixteen/static/css/2.de424728.chunk.css.map",
-    "static/css/main.3245c577.chunk.css.map": "/reactsixteen/static/css/main.3245c577.chunk.css.map",
-    "static/js/2.a4296f3c.chunk.js.LICENSE.txt": "/reactsixteen/static/js/2.a4296f3c.chunk.js.LICENSE.txt",
+    "static/css/main.2eba35c5.chunk.css.map": "/reactsixteen/static/css/main.2eba35c5.chunk.css.map",
+    "static/js/2.9011f03b.chunk.js.LICENSE.txt": "/reactsixteen/static/js/2.9011f03b.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/reactsixteen/static/media/logo.5d5d9eef.svg",
     "static/media/styles.css": "/reactsixteen/static/media/verdana.ba34b303.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.571ddcb2.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.a4296f3c.chunk.js",
-    "static/css/main.3245c577.chunk.css",
-    "static/js/main.48de2b68.chunk.js"
+    "static/js/2.9011f03b.chunk.js",
+    "static/css/main.2eba35c5.chunk.css",
+    "static/js/main.e761bba2.chunk.js"
   ]
 }
