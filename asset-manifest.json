@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/reactsixteen/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactsixteen/static/js/main.047f34e3.chunk.js",
-    "main.js.map": "/reactsixteen/static/js/main.047f34e3.chunk.js.map",
+    "main.css": "/reactsixteen/static/css/main.3245c577.chunk.css",
+    "main.js": "/reactsixteen/static/js/main.16c9fc2e.chunk.js",
+    "main.js.map": "/reactsixteen/static/js/main.16c9fc2e.chunk.js.map",
     "runtime-main.js": "/reactsixteen/static/js/runtime-main.571ddcb2.js",
     "runtime-main.js.map": "/reactsixteen/static/js/runtime-main.571ddcb2.js.map",
     "static/css/2.de424728.chunk.css": "/reactsixteen/static/css/2.de424728.chunk.css",
-    "static/js/2.e1e2b418.chunk.js": "/reactsixteen/static/js/2.e1e2b418.chunk.js",
-    "static/js/2.e1e2b418.chunk.js.map": "/reactsixteen/static/js/2.e1e2b418.chunk.js.map",
+    "static/js/2.8fb7b9d7.chunk.js": "/reactsixteen/static/js/2.8fb7b9d7.chunk.js",
+    "static/js/2.8fb7b9d7.chunk.js.map": "/reactsixteen/static/js/2.8fb7b9d7.chunk.js.map",
     "index.html": "/reactsixteen/index.html",
-    "precache-manifest.6217a7db43d39a83a3bcb7dfa4ff550d.js": "/reactsixteen/precache-manifest.6217a7db43d39a83a3bcb7dfa4ff550d.js",
+    "precache-manifest.cb5ffb094a8ce2fa376490e2fc47665d.js": "/reactsixteen/precache-manifest.cb5ffb094a8ce2fa376490e2fc47665d.js",
     "service-worker.js": "/reactsixteen/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/reactsixteen/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/reactsixteen/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e1e2b418.chunk.js.LICENSE.txt": "/reactsixteen/static/js/2.e1e2b418.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactsixteen/static/media/logo.5d5d9eef.svg"
+    "static/css/main.3245c577.chunk.css.map": "/reactsixteen/static/css/main.3245c577.chunk.css.map",
+    "static/js/2.8fb7b9d7.chunk.js.LICENSE.txt": "/reactsixteen/static/js/2.8fb7b9d7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactsixteen/static/media/logo.5d5d9eef.svg",
+    "static/media/styles.css": "/reactsixteen/static/media/verdana.ba34b303.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.571ddcb2.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.e1e2b418.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.047f34e3.chunk.js"
+    "static/js/2.8fb7b9d7.chunk.js",
+    "static/css/main.3245c577.chunk.css",
+    "static/js/main.16c9fc2e.chunk.js"
   ]
 }
